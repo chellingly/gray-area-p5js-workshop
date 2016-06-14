@@ -2,10 +2,6 @@
 P5.js Workshop June 15 &amp; 17 2016
 
 
-# gray-area-immersive-summer-2016
-Gray Area Creative Code Immersive 2016
-
-Javascript & P5 Week
 
 # Slides
 
